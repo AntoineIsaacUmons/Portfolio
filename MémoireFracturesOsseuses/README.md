@@ -26,6 +26,10 @@ Ce dépôt contient le code associé à mon mémoire de Master en Sciences Infor
   - `non_fractured` : Ce dossier contient des images radiographiques sans fracture.
 - `unlabeledData` : Contient des données radiographiques qui n'ont pas été annotées. Ces données sont utilisées pour le pseudo-labeling
 
+### Exemple de résultats
+![Capture d'écran 2024-07-30 094531](https://github.com/user-attachments/assets/c302c8cb-22b6-433e-88f2-5041b3223074)
+
+![1eé](https://github.com/user-attachments/assets/3384f349-795c-4112-8328-d51c3bcef584)
 
 
 ## Contributeurs

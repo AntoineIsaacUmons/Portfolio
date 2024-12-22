@@ -25,11 +25,6 @@ The idea for this project was born from my experience working as a restocker at 
 - **grad_cam.py**
   - Implements the Grad-CAM (Gradient-weighted Class Activation Mapping) technique to visualize which parts of an image most influence the model's decision, providing interpretability through generated heatmaps.
 
-- **main.py**
-  - The entry point script that orchestrates the project's execution:
-    - Parameter selection.
-    - Calls to training, testing, and evaluation processes.
-
 - **model_builder.py**
   - Contains definitions of model architectures (like MobileNetV3 or ResNet50) adapted for fruit classification.
 
